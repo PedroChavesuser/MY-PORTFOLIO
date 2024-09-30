@@ -38,7 +38,7 @@ const Contact = () => {
                   className="space-y-2 text-yellow-600 font-medium leading-loose"
                 >
                   Pedro Chaves <br />
-                  pedrochavesjp@gmail.com <br />+ 55 83 998566536
+                  pedro@gmail.com <br />+ 55 99 000000000
                 </div>
               </address>
             </div>
